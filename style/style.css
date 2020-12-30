@@ -46,6 +46,9 @@ h1, h2, h3, h4 {
     font-size: small;
     text-align: center;
 }
+.logo {
+    text-decoration: none;
+}
 img {
     max-width: 100%;
 }
