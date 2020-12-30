@@ -41,6 +41,14 @@ h1, h2, h3, h4 {
     font-style: italic;
     color: gray;
 }
+.postdate {
+    color: gray;
+    font-size: small;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+}
 @media only screen and (max-width: 768px) {
     .container {
         width: 100%;
