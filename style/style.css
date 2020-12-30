@@ -28,11 +28,9 @@ a:link {
 a:visited {
     color: gray;
 }
-a:hover {
-    color: #d08770;
-}
 .container {
     margin: 0 auto;
+    text-align: justify;
 }
 h1, h2, h3, h4 {
 	font-family: serif;
