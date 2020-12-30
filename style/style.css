@@ -8,6 +8,20 @@ header {
 footer {
     text-align: center;
 }
+.navlist {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+.navelem {
+	text-align: center;
+	display: inline;
+	margin-left: 2%;
+	margin-right: 2%;
+	color: #262927;
+}
 a:link {
     color: #000000;
 }
