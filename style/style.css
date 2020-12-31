@@ -22,7 +22,7 @@ footer {
 .navelem {
 	text-align: center;
     font-variant-caps: all-petite-caps;
-    font-size: large;
+    font-size: 120%;
 	display: inline;
 	margin-left: 2%;
 	margin-right: 2%;
@@ -76,6 +76,9 @@ img {
 @media only screen and (max-width: 768px) {
     .container {
         width: 100%;
+    }
+    h1,h2 {
+        font-size: 8vw;
     }
 }
 @media only screen and (min-width: 768px) {
