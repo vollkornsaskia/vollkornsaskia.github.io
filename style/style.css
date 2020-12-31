@@ -4,9 +4,11 @@ body {
 }
 header {
     text-align: center;
+    margin-bottom: 1.5cm;
 }
 footer {
     text-align: center;
+    margin-top: 2cm;
 }
 .navlist {
     list-style-type: none;
