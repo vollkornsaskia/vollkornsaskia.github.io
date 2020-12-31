@@ -1,6 +1,7 @@
 body {
     padding: 15px;
     font-family: Sans-Serif;
+    line-height: 1.4;
 }
 header {
     text-align: center;
@@ -36,10 +37,17 @@ a:visited {
 }
 h1, h2, h3, h4 {
 	font-family: serif;
-    text-align: center;
+    font-weight: 100;
 }
 h1 {
-    font-size: 300%;
+    font-size: 500%;
+    text-align: center;
+    letter-spacing: 4px;
+    margin-bottom: 0px;
+}
+h2 {
+    font-size: 250%;
+    text-align: center;
 }
 .tagline {
     font-style: italic;
@@ -52,6 +60,9 @@ h1 {
 }
 .logo {
     text-decoration: none;
+}
+.postpreview {
+    margin-bottom: 75px;
 }
 img {
     max-width: 100%;
