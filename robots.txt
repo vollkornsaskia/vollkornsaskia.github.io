@@ -1,0 +1,4 @@
+Sitemap: https://vollkornsaskia.de/sitemap.xml
+
+User-Agent: *
+Host: vollkornsaskia.de
