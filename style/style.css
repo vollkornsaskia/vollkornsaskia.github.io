@@ -34,6 +34,10 @@ a:visited {
 }
 h1, h2, h3, h4 {
 	font-family: serif;
+    text-align: center;
+}
+h1 {
+    font-size: 300%;
 }
 .tagline {
     font-style: italic;
